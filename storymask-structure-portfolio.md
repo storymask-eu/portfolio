@@ -1,0 +1,42 @@
+storymask-portfolio/
+├── admin/
+│   ├── index.html
+│   └── config.yml
+├── content/
+│   ├── pages/
+│   │   ├── home.md
+│   │   ├── about.md
+│   │   ├── projects.md
+│   │   └── contact.md
+│   ├── projects/
+│   │   ├── project-1.md
+│   │   ├── project-2.md
+│   │   └── project-3.md
+│   ├── blog/
+│   │   ├── post-1.md
+│   │   └── post-2.md
+│   └── settings/
+│       ├── site.json
+│       ├── navigation.json
+│       └── social.json
+├── public/
+│   ├── images/
+│   │   ├── hero-bg.jpg
+│   │   ├── projects/
+│   │   └── avatar.jpg
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── components/
+│   │   └── utilities.css
+│   ├── js/
+│   │   ├── main.js
+│   │   ├── animations.js
+│   │   └── cms-loader.js
+│   └── fonts/
+├── src/
+│   ├── index.html
+│   ├── about.html
+│   ├── projects.html
+│   ├── blog.html
+│   └── contact.html
+└── netlify.toml
